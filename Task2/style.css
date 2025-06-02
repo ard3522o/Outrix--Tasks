@@ -1,0 +1,11 @@
+.head {
+    text-align: center;
+   color: brown;
+   background-color: chartreuse;
+}
+.mainC {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+   
+}
